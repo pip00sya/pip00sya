@@ -44,8 +44,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pip00sya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pip00sya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pip00sya&theme=tokyonight" width="100%" alt="Profile details" />
+
+<br/><br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pip00sya&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pip00sya&theme=tokyonight&utcOffset=5" alt="Productive time" />
 
 <br/><br/>
 
@@ -59,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pip00sya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-ruddy.vercel.app/?username=pip00sya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
 
 </div>
 
@@ -69,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pip00sya&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/8871e5/pip00sya" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -77,16 +81,48 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/pip00sya/whitebox-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pip00sya&repo=whitebox-ai&theme=tokyonight&hide_border=true" alt="whitebox-ai" />
-</a>
-<a href="https://github.com/pip00sya/Halyk-ai-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pip00sya&repo=Halyk-ai-agent&theme=tokyonight&hide_border=true" alt="Halyk-ai-agent" />
-</a>
+<h3 align="center">🔍 WhiteBox AI</h3>
 
-</div>
+<p align="center">
+  <a href="https://github.com/pip00sya/whitebox-ai">
+    <img src="https://img.shields.io/badge/pip00sya-whitebox--ai-8871e5?style=for-the-badge&logo=github" alt="whitebox-ai repo" />
+  </a>
+</p>
+
+<p align="center">Explainable AI Hiring OS — ranked score drivers, evidence-linked scores, mandatory human decision, append-only hash-chained audit log.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/AI-8871e5?style=flat-square" alt="AI" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏦 Halyk AI Agent</h3>
+
+<p align="center">
+  <a href="https://github.com/pip00sya/Halyk-ai-agent">
+    <img src="https://img.shields.io/badge/pip00sya-Halyk--ai--agent-8871e5?style=for-the-badge&logo=github" alt="Halyk-ai-agent repo" />
+  </a>
+</p>
+
+<p align="center">Banking AI assistant — an LLM-powered agent built with Python for real-world financial workflows.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LLM-b678c4?style=flat-square" alt="LLM" />
+  <img src="https://img.shields.io/badge/Agents-e58787?style=flat-square" alt="Agents" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
