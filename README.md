@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Aimukatov%20Nurkhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=200&section=header&text=Aimukatov%20Nurkhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=%3E+hey%2C+I'm+Nurkhan;%3E+building+AI+agents+%26+LLM+products;%3E+Python+%2F+TypeScript+%2F+Next.js;%3E+based+in+Kazakhstan" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&lines=%3E+hey%2C+I'm+Nurkhan;%3E+building+web+products+%26+developer+tools;%3E+Python+%2F+TypeScript+%2F+Next.js;%3E+based+in+Kazakhstan" alt="typing" />
 
 <br/>
 
@@ -24,11 +24,11 @@
 
 ## About Me
 
-I'm an **AI Engineer & Full-stack Developer** from Kazakhstan, passionate about building AI agents and LLM-powered products.
+I'm a **Software Engineer & Full-stack Developer** from Kazakhstan, building web products end to end.
 
-- **Focus:** AI agents, explainable AI, rapid prototyping
+- **Focus:** product engineering, explainable systems, rapid prototyping
 - **Stack:** Python / FastAPI on the backend, TypeScript / React / Next.js on the frontend
-- **Hackathons:** Decentrathon 5.0 — AI candidate-screening system for inVision U
+- **Hackathons:** Decentrathon 5.0 — candidate-screening system for inVision U
 - **Now:** shipping pet projects and learning something new every day
 
 ---
@@ -39,11 +39,11 @@ I'm an **AI Engineer & Full-stack Developer** from Kazakhstan, passionate about 
 
 ### [whitebox-ai](https://github.com/pip00sya/whitebox-ai)
 
-> Explainable AI Hiring OS — ranked score drivers, evidence-linked scores, mandatory human decision, append-only hash-chained audit log.
+> Explainable hiring OS — ranked score drivers, evidence-linked scores, mandatory human decision, append-only hash-chained audit log.
 
 ### [Halyk-ai-agent](https://github.com/pip00sya/Halyk-ai-agent)
 
-> Banking AI assistant — an LLM-powered agent built with Python for real-world financial workflows.
+> Banking assistant — a Python service for real-world financial workflows.
 
 </div>
 
@@ -87,7 +87,7 @@ I'm an **AI Engineer & Full-stack Developer** from Kazakhstan, passionate about 
 
 | Hackathon | Project | Year |
 |-----------|---------|------|
-| Decentrathon 5.0 | AI candidate-screening MVP for inVision U | 2026 |
+| Decentrathon 5.0 | Candidate-screening MVP for inVision U | 2026 |
 
 </div>
 
